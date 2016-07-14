@@ -179,7 +179,7 @@ char WEBPAGE [] = "GET /weatherstation/updateweatherstation.php?";
 
 //Station Identification
 char ID [] = "KCODENVE289"; //Your station ID here
-char PASSWORD [] = "E6JVHIR2"; //your Weather Underground password here
+char PASSWORD [] = "XXXXXXXX"; //your Weather Underground password here
 
 TCPClient client;
 
